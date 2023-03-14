@@ -4,7 +4,27 @@ Criar uma um backend que contenha uma rota, essa rota deverá receber 2 parâmet
 
 Exemplo: nota1 + nota2 /2
 
-Colocar esse backend no repositório GIT e preencher o formulário da atividade com a URL.
+## Requisitos 
+Python3 acesse para download [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+## Build
+```
+#clonar repositórios 
+git clone <link_repositorios>
+
+#acessar pasta do projeto
+cd FrameworksFullStack-Atividade01
+
+#instalar dependências do projeto
+pip install -r requirements.txt
+
+#executar projeto
+py.exe .\app.py or python.exe .\app.py
+
+#executar teste
+py.exe .\teste.py or python.exe .\teste.py
+
+```
 
 ## Teste Executado 
 <div align="center">
