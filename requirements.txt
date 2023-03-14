@@ -1,0 +1,2 @@
+# Bibliotecas de Web
+Flask==2.2.2 # Framework web para Python
